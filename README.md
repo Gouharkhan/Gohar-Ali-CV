@@ -1,2 +1,2 @@
-# Gohar-Ali-CV
+# Gohar Ali
 My CV
