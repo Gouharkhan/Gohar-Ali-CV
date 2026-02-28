@@ -5,7 +5,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Gohar's Profile</title>
    
    
 </head>
@@ -133,11 +132,7 @@
         <li>Immediately Available</li>
         </ul>
      </section>
-
-    </main>
-    <footer>
-
-    </footer>
+     </main>
 </body>
 
 </html>
